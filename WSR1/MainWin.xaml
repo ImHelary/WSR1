@@ -1,0 +1,15 @@
+﻿<Window x:Class="WSR1.MainWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WSR1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWin" Height="450" Width="800">
+    <Grid>
+        <Button Margin="95,269,587,74" Content="sfsdfsdbb"/>
+        <Image Margin="10,10,661,334" Source="/Image/agent_1.png"/>
+
+    </Grid>
+</Window>
